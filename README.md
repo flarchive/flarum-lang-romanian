@@ -1,25 +1,34 @@
-# block-cat/flarum-core-romanian (Archive)
+# flarum-lang-romanian (Archive)
 
-> **Read-only archive of released versions of block-cat/flarum-core-romanian.** Not for installation: use [Packagist](https://packagist.org/packages/block-cat/flarum-core-romanian) or the [upstream repository](https://github.com/flarum-lang/romanian).
+> **Read-only archive of released versions for block-cat/flarum-core-romanian, flarum-lang/romanian.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/romanian).
 
-**10** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**10** versions archived · Latest: [`1.2.3`](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.3) · License: `MIT` · Flarum: `^1.4`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`block-cat/flarum-core-romanian`](https://packagist.org/packages/block-cat/flarum-core-romanian)
+- [`flarum-lang/romanian`](https://packagist.org/packages/flarum-lang/romanian)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.2.3` | 2026-09-30 | `^1.4` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.2.3) |
-| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v2.0.0) |
-| `v1.0` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.0) |
-| `v1.0.1` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.0.1) |
-| `v1.1.0` | 2021-11-22 | `^1.0.0` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.1.0) |
-| `v1.2.0` | 2022-04-26 | `^1.2` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.2.0) |
-| `v1.2.1` | 2022-11-12 | `^1.4` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.2.1) |
-| `v1.2.2` | 2022-11-12 | `^1.4` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.2.2) |
-| `1.2.4` | 2026-10-12 | `^1.4` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v1.2.4) |
-| `2.0.1` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/block-cat-flarum-core-romanian/tree/archive/v2.0.1) |
+| `1.2.3` | 2026-09-30 | `^1.4` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.3) |
+| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v2.0.0) |
+| `v1.0` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.0) |
+| `v1.0.1` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.0.1) |
+| `v1.1.0` | 2021-11-22 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.1.0) |
+| `v1.2.0` | 2022-04-26 | `^1.2` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.0) |
+| `v1.2.1` | 2022-11-12 | `^1.4` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.1) |
+| `v1.2.2` | 2022-11-12 | `^1.4` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.2) |
+| `1.2.4` | 2026-10-12 | `^1.4` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v1.2.4) |
+| `2.0.1` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-romanian/tree/archive/v2.0.1) |
 
-Catalog entry: [packages/block-cat-flarum-core-romanian.json](https://github.com/flarchive/archive-index/blob/main/packages/block-cat-flarum-core-romanian.json)
+## Catalog entries
+
+- [`block-cat/flarum-core-romanian`](https://github.com/flarchive/archive-index/blob/main/packages/block-cat-flarum-core-romanian.json)
+- [`flarum-lang/romanian`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-romanian.json)
 
 ## About this archive
 
