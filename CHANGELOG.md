@@ -1,0 +1,112 @@
+CHANGELOG
+=========
+
+
+2.0.2 (2026-11-23)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (59 added, 3 changed).
+* Updated Day.js translations.
+
+
+All changes: [2.0.1...2.0.2](https://github.com/flarum-lang/romanian/compare/2.0.1...2.0.2).
+
+
+2.0.1 (2026-10-12)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (30 added, 1 changed).
+
+
+All changes: [2.0.0...2.0.1](https://github.com/flarum-lang/romanian/compare/2.0.0...2.0.1).
+
+
+2.0.0 (2026-09-30)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (329 added, 19 changed, 11 removed).
+* Updated validation translations (75 removed).
+
+
+**Added support for new extensions**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (100% complete)
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) (100% complete)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode) (100% complete)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges) (20% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (67% complete)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) (82% complete)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed, 54% complete)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed, 32% complete)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed, 79% complete)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed, 73% complete)
+* [`flarum/tags`](https://github.com/flarum/tags) (4 removed, 69% complete)
+
+
+**Removed support for outdated extensions**:
+
+* [`flarum/markdown`](https://github.com/flarum/markdown)
+
+
+All changes: [v1.2.2...2.0.0](https://github.com/flarum-lang/romanian/compare/v1.2.2...2.0.0).
+
+
+1.2.2 (2022-11-12)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+
+
+All changes: [v1.2.1...v1.2.2](https://github.com/flarum-lang/romanian/compare/v1.2.1...v1.2.2).
+
+
+1.2.1 (2022-11-12)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+* Updated Flarum core translations.
+* Updated validation translations.
+
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+
+
+All changes: [v1.2.0...v1.2.1](https://github.com/flarum-lang/romanian/compare/v1.2.0...v1.2.1).
+
+
